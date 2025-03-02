@@ -1,3 +1,15 @@
 conda create --name lora_cvx python=3.10 
 
+conda activate lora_cvx
+
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+cd customvideo
+
+# 从huggingface 下载lora_id lora_motion diffusers CogVideoX-5b到 ./customvideo
+
+cd diffusers
+
+pip install -e .
+
+更换脚本run_joint_lora.sh 中的CUDA_VISIBLE_DEVICES、inf_lora_json_path(末尾数字0-4), 运行

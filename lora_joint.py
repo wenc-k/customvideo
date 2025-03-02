@@ -129,10 +129,10 @@ def generate_video(
     #pipe.scheduler = CogVideoXDDIMScheduler.from_config(pipe.scheduler.config, timestep_spacing="trailing")
     pipe.scheduler = CogVideoXDPMScheduler.from_config(pipe.scheduler.config, timestep_spacing="trailing")
 
-    #pipe.to("cuda")
-    pipe.enable_sequential_cpu_offload()
-    pipe.vae.enable_slicing()
-    pipe.vae.enable_tiling()
+    pipe.to("cuda")
+    #pipe.enable_sequential_cpu_offload()
+    #pipe.vae.enable_slicing()
+    #pipe.vae.enable_tiling()
     prompt_list = load_prompts(prompt)
 
     json_datas_list = []
