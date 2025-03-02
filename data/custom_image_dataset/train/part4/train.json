@@ -1,0 +1,44 @@
+[
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/cat8",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PullUps",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/cat8_PullUps",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/cat8/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/cat9",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/TaiChi",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/cat9_TaiChi",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/cat9/images/00.jpeg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog9",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Archery",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/dog9_Archery",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog9/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog10",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/playingGuitar",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/dog10_playingGuitar",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog10/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog11",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/BenchPress",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/dog11_BenchPress",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog11/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog12",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PushUps",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/dog12_PushUps",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog12/images/00.jpeg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog13",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Lifting",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part4/dog13_Lifting",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part4/dog13/images/00.jpeg"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_sadangry/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_sadangry",
+        "lora_motion_path": "./lora_motion_result/BenchPress",
+        "output_path": "./lora_inf_result/plushie_sadangry_BenchPress"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_redbear/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_redbear",
+        "lora_motion_path": "./lora_motion_result/Surfing",
+        "output_path": "./lora_inf_result/plushie_redbear_Surfing"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_pink/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_pink",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/plushie_pink_Lifting"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_happysad/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_happysad",
+        "lora_motion_path": "./lora_motion_result/Run-Side",
+        "output_path": "./lora_inf_result/plushie_happysad_Run-Side"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_tortoise/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_tortoise",
+        "lora_motion_path": "./lora_motion_result/Riding-Horse",
+        "output_path": "./lora_inf_result/plushie_tortoise_Riding-Horse"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog3/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog3",
+        "lora_motion_path": "./lora_motion_result/Kicking-Front",
+        "output_path": "./lora_inf_result/dog3_Kicking-Front"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog8/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog8",
+        "lora_motion_path": "./lora_motion_result/Riding-Horse",
+        "output_path": "./lora_inf_result/dog8_Riding-Horse"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/actionfigure_2/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/actionfigure_2",
+        "lora_motion_path": "./lora_motion_result/PlayingCello",
+        "output_path": "./lora_inf_result/actionfigure_2_PlayingCello"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat2/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat2",
+        "lora_motion_path": "./lora_motion_result/Swing-SideAngle",
+        "output_path": "./lora_inf_result/cat2_Swing-SideAngle"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/toy/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/toy",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/toy_Lifting"
+    }
+]

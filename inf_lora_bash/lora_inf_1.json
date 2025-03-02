@@ -1,0 +1,62 @@
+[
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog4/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog4",
+        "lora_motion_path": "./lora_motion_result/PlayingCello",
+        "output_path": "./lora_inf_result/dog4_PlayingCello"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog5/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog5",
+        "lora_motion_path": "./lora_motion_result/PlayingFlute",
+        "output_path": "./lora_inf_result/dog5_PlayingFlute"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog6/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog6",
+        "lora_motion_path": "./lora_motion_result/playingGuitar",
+        "output_path": "./lora_inf_result/dog6_playingGuitar"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog7/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog7",
+        "lora_motion_path": "./lora_motion_result/PlayingViolin",
+        "output_path": "./lora_inf_result/dog7_PlayingViolin"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cartoon/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cartoon",
+        "lora_motion_path": "./lora_motion_result/Swing-Bench",
+        "output_path": "./lora_inf_result/cartoon_Swing-Bench"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat",
+        "lora_motion_path": "./lora_motion_result/PullUps",
+        "output_path": "./lora_inf_result/cat_PullUps"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat3/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat3",
+        "lora_motion_path": "./lora_motion_result/TaiChi",
+        "output_path": "./lora_inf_result/cat3_TaiChi"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat4/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat4",
+        "lora_motion_path": "./lora_motion_result/Archery",
+        "output_path": "./lora_inf_result/cat4_Archery"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat5/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat5",
+        "lora_motion_path": "./lora_motion_result/playingGuitar",
+        "output_path": "./lora_inf_result/cat5_playingGuitar"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat6/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat6",
+        "lora_motion_path": "./lora_motion_result/Biking",
+        "output_path": "./lora_inf_result/cat6_Biking"
+    }
+]

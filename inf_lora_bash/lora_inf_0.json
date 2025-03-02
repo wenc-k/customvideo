@@ -1,0 +1,62 @@
+[
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_2/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_2",
+        "lora_motion_path": "./lora_motion_result/Biking",
+        "output_path": "./lora_inf_result/plushie_2_Biking"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_bear/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_bear",
+        "lora_motion_path": "./lora_motion_result/BenchPress",
+        "output_path": "./lora_inf_result/plushie_bear_BenchPress"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_grey_sloth/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_grey_sloth",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/plushie_grey_sloth_Lifting"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_monster/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_monster",
+        "lora_motion_path": "./lora_motion_result/PushUps",
+        "output_path": "./lora_inf_result/plushie_monster_PushUps"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_panda/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_panda",
+        "lora_motion_path": "./lora_motion_result/Surfing",
+        "output_path": "./lora_inf_result/plushie_panda_Surfing"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_penguin/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_penguin",
+        "lora_motion_path": "./lora_motion_result/SkateBoarding-Front",
+        "output_path": "./lora_inf_result/plushie_penguin_SkateBoarding-Front"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_teddybear/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_teddybear",
+        "lora_motion_path": "./lora_motion_result/Archery",
+        "output_path": "./lora_inf_result/plushie_teddybear_Archery"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_wolf/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_wolf",
+        "lora_motion_path": "./lora_motion_result/Skiing",
+        "output_path": "./lora_inf_result/plushie_wolf_Skiing"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog",
+        "lora_motion_path": "./lora_motion_result/Basketball",
+        "output_path": "./lora_inf_result/dog_Basketball"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog2/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog2",
+        "lora_motion_path": "./lora_motion_result/HighJump",
+        "output_path": "./lora_inf_result/dog2_HighJump"
+    }
+]

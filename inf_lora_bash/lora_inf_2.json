@@ -1,0 +1,62 @@
+[
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat7/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat7",
+        "lora_motion_path": "./lora_motion_result/BenchPress",
+        "output_path": "./lora_inf_result/cat7_BenchPress"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/toy_bear/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/toy_bear",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/toy_bear_Lifting"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat8/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat8",
+        "lora_motion_path": "./lora_motion_result/PullUps",
+        "output_path": "./lora_inf_result/cat8_PullUps"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/cat9/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/cat9",
+        "lora_motion_path": "./lora_motion_result/TaiChi",
+        "output_path": "./lora_inf_result/cat9_TaiChi"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog9/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog9",
+        "lora_motion_path": "./lora_motion_result/Archery",
+        "output_path": "./lora_inf_result/dog9_Archery"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog10/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog10",
+        "lora_motion_path": "./lora_motion_result/playingGuitar",
+        "output_path": "./lora_inf_result/dog10_playingGuitar"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog11/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog11",
+        "lora_motion_path": "./lora_motion_result/BenchPress",
+        "output_path": "./lora_inf_result/dog11_BenchPress"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog12/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog12",
+        "lora_motion_path": "./lora_motion_result/PushUps",
+        "output_path": "./lora_inf_result/dog12_PushUps"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/dog13/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/dog13",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/dog13_Lifting"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_pikaqiu/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_pikaqiu",
+        "lora_motion_path": "./lora_motion_result/Archery",
+        "output_path": "./lora_inf_result/plushie_pikaqiu_Archery"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_bear",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/BenchPress",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/plushie_bear_BenchPress",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_bear/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part3/cat",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PullUps",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/cat_PullUps",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part3/cat/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog7",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingViolin",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/dog7_PlayingViolin",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog7/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog4",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingCello",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/dog4_PlayingCello",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog4/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog6",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/playingGuitar",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/dog6_playingGuitar",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog6/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_penguin",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/SkateBoarding-Front",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/plushie_penguin_SkateBoarding-Front",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_penguin/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part6/plushie_redbear",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Surfing",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/plushie_redbear_Surfing",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part6/plushie_redbear/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part6/toy_gnome",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/TaiChi",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/toy_gnome_TaiChi",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part6/toy_gnome/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_teddybear",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/SkateBoarding-Front",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/plushie_teddybear_SkateBoarding-Front",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part1/plushie_teddybear/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part3/cat3",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/playingGuitar",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/ablation_result/2/cat3_playingGuitar",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part3/cat3/images/00.jpg"
+    }
+]

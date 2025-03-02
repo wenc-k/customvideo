@@ -1,0 +1,62 @@
+[
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_lobster/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_lobster",
+        "lora_motion_path": "./lora_motion_result/TaiChi",
+        "output_path": "./lora_inf_result/plushie_lobster_TaiChi"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_hellokitty/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_hellokitty",
+        "lora_motion_path": "./lora_motion_result/PlayingCello",
+        "output_path": "./lora_inf_result/plushie_hellokitty_PlayingCello"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_cow/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_cow",
+        "lora_motion_path": "./lora_motion_result/playingGuitar",
+        "output_path": "./lora_inf_result/plushie_cow_playingGuitar"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_bunny/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_bunny",
+        "lora_motion_path": "./lora_motion_result/BenchPress",
+        "output_path": "./lora_inf_result/plushie_bunny_BenchPress"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_bluedog/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_bluedog",
+        "lora_motion_path": "./lora_motion_result/Surfing",
+        "output_path": "./lora_inf_result/plushie_bluedog_Surfing"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/leopard/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/leopard",
+        "lora_motion_path": "./lora_motion_result/Lifting",
+        "output_path": "./lora_inf_result/leopard_Lifting"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/toy_robot/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/toy_robot",
+        "lora_motion_path": "./lora_motion_result/Archery",
+        "output_path": "./lora_inf_result/toy_robot_Archery"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/toy_gnome/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/toy_gnome",
+        "lora_motion_path": "./lora_motion_result/TaiChi",
+        "output_path": "./lora_inf_result/toy_gnome_TaiChi"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_yuguigou/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_yuguigou",
+        "lora_motion_path": "./lora_motion_result/PlayingCello",
+        "output_path": "./lora_inf_result/plushie_yuguigou_PlayingCello"
+    },
+    {
+        "prompt_path": "./data/custom_image_dataset/one_part_train/plushie_unicorn/eval_pro_50.txt",
+        "lora_id_path": "./lora_id_result/plushie_unicorn",
+        "lora_motion_path": "./lora_motion_result/playingGuitar",
+        "output_path": "./lora_inf_result/plushie_unicorn_playingGuitar"
+    }
+]

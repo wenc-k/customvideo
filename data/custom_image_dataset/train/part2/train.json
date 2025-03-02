@@ -1,0 +1,44 @@
+[
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Basketball",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog_Basketball",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog2",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/HighJump",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog2_HighJump",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog2/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog4",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingCello",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog4_PlayingCello",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog4/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog5",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingFlute",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog5_PlayingFlute",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog5/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog6",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/playingGuitar",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog6_playingGuitar",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog6/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog7",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingViolin",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/dog7_PlayingViolin",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/dog7/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/cartoon",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Swing-Bench",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part2/cartoon_Swing-Bench",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part2/cartoon/images/00.jpg"
+    }
+]

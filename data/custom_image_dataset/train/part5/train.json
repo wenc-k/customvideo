@@ -1,0 +1,44 @@
+[
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_pikaqiu",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Archery",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_pikaqiu_Archery",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_pikaqiu/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_lobster",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/TaiChi",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_lobster_TaiChi",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_lobster/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_hellokitty",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingCello",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_hellokitty_PlayingCello",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_hellokitty/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_cow",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/playingGuitar",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_cow_playingGuitar",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_cow/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_bunny",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/BenchPress",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_bunny_BenchPress",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_bunny/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_bluedog",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Surfing",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/plushie_bluedog_Surfing",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/plushie_bluedog/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/leopard",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Lifting",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part5/leopard_Lifting",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part5/leopard/images/00.jpeg"
+    }
+]

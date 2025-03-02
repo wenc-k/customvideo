@@ -1,0 +1,44 @@
+[
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/plushie_happysad",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Run-Side",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/plushie_happysad_Run-Side",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/plushie_happysad/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/plushie_tortoise",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Riding-Horse",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/plushie_tortoise_Riding-Horse",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/plushie_tortoise/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/dog3",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Kicking-Front",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/dog3_Kicking-Front",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/dog3/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/dog8",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Riding-Horse",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/dog8_Riding-Horse",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/dog8/images/0.jpeg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/actionfigure_2",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/PlayingCello",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/actionfigure_2_PlayingCello",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/actionfigure_2/images/00.png"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/cat2",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Swing-SideAngle",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/cat2_Swing-SideAngle",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/cat2/images/00.jpg"
+    },
+    {
+        "instance_data_root_id": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/toy",
+        "instance_data_root_motion": "/home/wangwc/project/CogVideoX/finetune/data/custom_video_dataset/videos/Lifting",
+        "output_dir": "/home/wangwc/project/CogVideoX/finetune/exp_joint_result/part7/toy_Lifting",
+        "ref_image_path": "/home/wangwc/project/CogVideoX/finetune/data/custom_image_dataset/train/part7/toy/images/00.jpg"
+    }
+]
