@@ -1,0 +1,77 @@
+instance_dict = {
+    "01": "backpack",
+    "02": "backpack",
+    "03": "can",
+    "04": "candle",
+    "05": "wooden pot",
+    "06": "cat",
+    "07": "cat",
+    "08": "dog",
+    "09": "dog",
+    "10": "dog",
+    "11": "dog",
+    "12": "grey sloth plushie",
+    "13": "bear plushie",
+    "14": "wolf plushie",
+    "15": "bear toy",
+    "16": "kitten toy",
+    "17": "poop emoji",
+    "18": "duck toy",
+    "19": "remote control car",
+    "20": "teapot",
+}
+
+instance_dict_cn = {
+    "01": "backpack",
+    "02": "backpack",
+    "03": "can",
+    "04": "candle",
+    "05": "wooden pot",
+    "06": "cat",
+    "07": "cat",
+    "08": "dog",
+    "09": "dog",
+    "10": "dog",
+    "11": "dog",
+    "12": "grey sloth plushie",
+    "13": "bear plushie",
+    "14": "wolf plushie",
+    "15": "bear plushie",   # good
+    "16": "cat toy",
+    "17": "poop emoji",
+    "18": "duck toy",
+    "19": "rc car", # good
+    "20": "teapot",
+}
+prompts_test = [
+    "The {} from IMAGE1 wearing a hat on the beach",
+    "The {} from IMAGE1 wearing sunglasses in a garden",
+    "The {} from IMAGE1 wearing Purple Wizard Outfit and playing guitar On the stage",
+    "A watercolor painting of {} from IMAGE1 on a mountain",
+    "a painting of {} from IMAGE1 in Van Gogh style",
+    "The {} from IMAGE1 in the style of Banksy art",
+    "a bag in the style of {} from IMAGE1",
+    " a photo of a cat {} from IMAGE1 in watercolor style",
+    "The {} from IMAGE1 riding a bike in the city ",
+    ]
+
+prompts_dict={"hat_and_beach": "The {} from IMAGE1 wearing a hat on the beach",
+                    "sunglasses_and_garden": "The {} from IMAGE1 wearing sunglasses in a garden",
+                    "Purple_Wizard_Outfit_and_guitar": "The {} from IMAGE1 wearing Purple Wizard Outfit and playing guitar On the stage",
+                    "watercolor_patinting": "A watercolor painting of {} from IMAGE1 on a mountain",
+                    "Van_Gogh_style": "a painting of {} from IMAGE1 in Van Gogh style",
+                    "Banksy_art": "The {} from IMAGE1 in the style of Banksy art",
+                    "a_bag":  "a bag in the style of {} from IMAGE1",
+                    "cat": " a photo of a cat {} from IMAGE1 in watercolor style",
+                    "City" : "The {} from IMAGE1 riding a bike in the city " }
+
+prompts_tes_name=[  "hat_and_beach",
+                    "sunglasses_and_garden",
+                    "Purple_Wizard_Outfit_and_guitar",
+                    "watercolor_patinting",
+                    "Van_Gogh_style",
+                    "Banksy_art",
+                    "a_bag",
+                    "cat",
+                    "City"
+                    ]
